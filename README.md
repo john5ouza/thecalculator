@@ -1,6 +1,6 @@
 # TheC#lculator Documentation
 
----
+<img width="1600" alt="THE C#LCULATOR - POST" src="https://github.com/john5ouza/thecalculator/assets/63263864/8992b7b1-011e-444c-a39e-47521b36589f">
 
 **Introduction**
 Welcome to TheC#lculator, a comprehensive console-based application offering essential arithmetic operations for users. With an intuitive interface and straightforward functionality, users can easily perform operations like addition, subtraction, multiplication, division, exponentiation, and even root calculations.
